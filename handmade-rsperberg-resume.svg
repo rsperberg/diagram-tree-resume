@@ -31,11 +31,11 @@
   </g>
 
   <g id="diagram-tree"> <!-- The tree, icons and labels -->
-    <line x1="408" y1="240" x2="408" y2="960" stroke-width="3pt" stroke="#90b2ca" stroke-linecap="butt" />
+    <line x1="408" y1="200" x2="408" y2="960" stroke-width="3pt" stroke="#90b2ca" stroke-linecap="butt" />
 
     <g id="circle1-contact"><!-- grouped white bg, contact icon, circle, line, bar with white text -->
-      <circle cx="408" cy="216" r="18pt" stroke-width="0" stroke="#ffffff" fill="#ffffff" opacity="1.0" />
-      <g transform="scale(0.38) translate(776 272) ">
+      <circle cx="408" cy="176" r="18pt" stroke-width="0" stroke="#ffffff" fill="#ffffff" opacity="1.0" />
+      <g transform="scale(0.38) translate(776 167) ">
            <title>identity card (e.g., contact info) icon</title>
            <path d="m341 328c0.375-0.178 0.845-0.591 1.04-0.919 0.352-0.576 0.364-1.59 0.364-30.6l7.8e-4 -30-0.404-0.514c-0.895-1.14-0.0364-1.09-18.1-1.09h-16.6v3.26c0 3.01-0.0314 3.3-0.401 3.77l-0.401 0.51h-9.34c-9.25 0-9.35-3e-3 -9.71-0.407-0.327-0.361-0.376-0.786-0.43-3.77l-0.0609-3.37h-16.4c-17.9 0-17.1-0.0514-18 1.09l-0.404 0.514 7.4e-4 30c7.9e-4 29.8 3e-3 30 0.391 30.7 0.776 1.27-2.59 1.18 44.7 1.19 39.8 6e-3 43.1-0.0157 43.7-0.316zm-36.6-69.7-0.0559-11.2-0.561-1.22c-1.36-2.95-4.75-4.73-7.79-4.1-2.45 0.506-4.15 1.81-5.24 4.01l-0.731 1.48-0.0574 11.1-0.0571 11.1h14.5l-0.0558-11.2zm-51.1 72.7c-1.69-0.457-3.06-1.65-3.73-3.27-0.262-0.627-0.296-4.25-0.295-31.2l2e-3 -30.4 0.454-0.975c0.587-1.26 2.01-2.52 3.28-2.9 0.832-0.247 3.4-0.289 17.5-0.289h16.5l3e-3 -6.82c3e-3 -7.53 0.12-8.61 1.15-10.7 2.63-5.32 9.48-7.24 14.4-4.06 1.9 1.22 3.36 3.04 4.18 5.24 0.41 1.1 0.431 1.47 0.497 8.74l0.0687 7.6h16.6c14.2 0 16.7 0.0423 17.6 0.289 1.27 0.377 2.7 1.64 3.28 2.9l0.454 0.975 2e-3 30.5 2e-3 30.5-0.497 0.997c-0.574 1.15-1.53 2.06-2.78 2.64l-0.881 0.408-43.5 0.0364c-34.6 0.0283-43.6-0.0126-44.4-0.21z"
               fill="#000000"
@@ -56,10 +56,10 @@
            <path d="m298 253c0.672-0.494 0.932-1.1 0.845-1.99-0.184-1.86-2.46-2.59-3.76-1.2-0.586 0.623-0.629 2.19-0.0774 2.8 0.818 0.916 2.05 1.07 2.99 0.383zm-2.31 3.05c-0.964-0.193-1.36-0.407-2.26-1.22-1.15-1.04-1.51-1.88-1.51-3.58 0-1.74 0.366-2.57 1.62-3.67 1.8-1.58 4.57-1.58 6.37 0 1.25 1.1 1.62 1.93 1.62 3.67 0 1.7-0.353 2.54-1.52 3.59-1.21 1.09-2.75 1.52-4.32 1.21z"
               fill="#808080"/>
       </g> <!-- identity card -->
-      <line x1="432" y1="216" x2="528" y2="216" stroke-width="3pt" stroke="#90b2ca" stroke-linecap="butt" />
-      <line x1="528" y1="216" x2="720" y2="216" stroke-width="36pt" stroke="#90b2ca" stroke-linecap="butt" />
-      <text id="text05" text-start="middle" x="624" y="222" style="fill: #ffffff; stroke: none; font-size: 21px; letter-spacing:0.3pt; text-anchor:middle; font-weight:700; ">Contact Info</text>
-      <circle cx="408" cy="216" r="18pt" stroke-width="3pt" stroke="#90b2ca" fill-opacity="0.0" />
+      <line x1="432" y1="176" x2="528" y2="176" stroke-width="3pt" stroke="#90b2ca" stroke-linecap="butt" />
+      <line x1="528" y1="176" x2="720" y2="176" stroke-width="36pt" stroke="#90b2ca" stroke-linecap="butt" />
+      <text id="text05" text-start="middle" x="624" y="182" style="fill: #ffffff; stroke: none; font-size: 21px; letter-spacing:0.3pt; text-anchor:middle; font-weight:700; ">Contact Info</text>
+      <circle cx="408" cy="176" r="18pt" stroke-width="3pt" stroke="#90b2ca" fill-opacity="0.0" />
     </g> <!-- circle1-contact -->
 
 
@@ -137,21 +137,21 @@
   </g> <!-- diagram-tree -->
 
   <g id="contact-info-group">
-    <text id="text10" text-start="left" x="418pt" y="200pt" style="text-anchor:left; font-weight:500;">
+    <text id="text10" text-start="left" x="418pt" y="166pt" style="text-anchor:left; font-weight:500;">
         <tspan>48 Walnut Street</tspan>
-        <tspan x="418pt" y="214pt">Montclair, NJ 07043</tspan>
-        <tspan x="418pt" y="228pt">973-200-4224</tspan>
-        <tspan x="418pt" y="242pt">rsperberg@gmail.com</tspan>
-        <tspan x="418pt" y="256pt">super-script.us</tspan>
+        <tspan x="418pt" y="180pt">Montclair, NJ 07043</tspan>
+        <tspan x="418pt" y="194pt">973-200-4224</tspan>
+        <tspan x="418pt" y="208pt">rsperberg@gmail.com</tspan>
+        <tspan x="418pt" y="222pt">super-script.us</tspan>
     </text>
   </g> <!-- contact-info-group -->
 
   <g id="education-group">
     <text id="text11" text-start="left" x="72pt" y="700pt" style="text-anchor:left; font-weight:500;">Bachelor of Journalism, <tspan class="italic">cum laude</tspan></text>
     <text id="text12" text-start="left"  x="72pt" y="714pt">University of Texas at Austin</text>
-    <text id="text13" text-start="left" x="72pt" y="728pt">Bachelor of Science, <tspan class="italic">magna cum laude</tspan></text>
-    <text id="text14" text-start="left" x="72pt" y="742pt">Economics</text>
-    <text id="text15" text-start="left" x="72pt" y="756pt">University of Texas at Austin</text>
+    <text id="text13" text-start="left" x="72pt" y="730pt">Bachelor of Science, <tspan class="italic">magna cum laude</tspan></text>
+    <text id="text14" text-start="left" x="72pt" y="744pt">Economics</text>
+    <text id="text15" text-start="left" x="72pt" y="758pt">University of Texas at Austin</text>
   </g> <!-- education-group -->
 
 </svg>
