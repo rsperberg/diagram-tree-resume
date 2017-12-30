@@ -13,28 +13,21 @@
   <defs>
     <style type="text/css">
       @import url('https://fonts.googleapis.com/css?family=Alegreya+Sans:400,400i,500, 500i,700,900');
-      text {
-      font-family: "Alegreya Sans";
-      }
-      #text01 {
-        font-size: 21pt;
-        }
-      #text02 {
-        font-size: 15pt;
-      }
-      #text03, #text04, tspan {
-        font-size: 12pt;
-      }
+      text { font-family: "Alegreya Sans"; font-size: 12pt; color: #000000; }
+      #text01 { font-size: 21pt; }
+      #text02 { font-size: 15pt; }
+      #text03, #text04, tspan { font-size: 12pt; }
+      .italic { font-weight: 500i; font-style: italic; }
     </style>
   </defs>
   <title
      id="title01">Roger Sperberg copyeditor</title>
 
   <g id="top-group">
-    <text id="text01" text-start="middle" x="306pt" y="72pt" style="letter-spacing:0.57pt; text-anchor:middle; font-weight:900;">Roger Sperberg</text>
-    <text id="text02" text-start="middle" x="306pt" y="90pt" style="text-anchor:middle; font-weight:500;">Copyeditor / Proofreader</text>
-    <text id="text03" text-start="middle" x="306pt" y="107pt" style="text-anchor:middle; font-weight:500;">Experienced print and electronic copyeditor, familiar with production needs and good with deadlines.</text>
-    <text id="text04" text-start="middle" x="306pt" y="121pt" style="text-anchor:middle; font-weight:500;">Available for full-time or part-time work, remote or on-site in the metro New York area.</text>
+    <text id="text01" text-start="middle" x="306pt" y="36pt" style="letter-spacing:0.57pt; text-anchor:middle; font-weight:900;">Roger Sperberg</text>
+    <text id="text02" text-start="middle" x="306pt" y="58pt" style="text-anchor:middle; font-weight:500;">Copyeditor / Proofreader</text>
+    <text id="text03" text-start="middle" x="306pt" y="73pt" style="text-anchor:middle; font-weight:500;">Experienced print and electronic copyeditor, familiar with production needs and good with deadlines.</text>
+    <text id="text04" text-start="middle" x="306pt" y="85pt" style="text-anchor:middle; font-weight:500;">Available for full-time or part-time work, remote or on-site in the metro New York area.</text>
   </g>
 
   <g id="diagram-tree"> <!-- The tree, icons and labels -->
@@ -138,10 +131,12 @@
       <circle cx="408" cy="984" r="18pt" stroke-width="3pt" stroke="#90b2ca" fill-opacity="0.0" />
     </g> <!-- circle5-skills -->
 
+    <g id="skills-icons">
+
+    </g><!-- skills-icons -->
   </g> <!-- diagram-tree -->
 
   <g id="contact-info-group">
-
     <text id="text10" text-start="left" x="418pt" y="200pt" style="text-anchor:left; font-weight:500;">
         <tspan>48 Walnut Street</tspan>
         <tspan x="418pt" y="214pt">Montclair, NJ 07043</tspan>
@@ -149,7 +144,14 @@
         <tspan x="418pt" y="242pt">rsperberg@gmail.com</tspan>
         <tspan x="418pt" y="256pt">super-script.us</tspan>
     </text>
+  </g> <!-- contact-info-group -->
 
-  </g>
+  <g id="education-group">
+    <text id="text11" text-start="left" x="72pt" y="700pt" style="text-anchor:left; font-weight:500;">Bachelor of Journalism, <tspan class="italic">cum laude</tspan></text>
+    <text id="text12" text-start="left"  x="72pt" y="714pt">University of Texas at Austin</text>
+    <text id="text13" text-start="left" x="72pt" y="728pt">Bachelor of Science, <tspan class="italic">magna cum laude</tspan></text>
+    <text id="text14" text-start="left" x="72pt" y="742pt">Economics</text>
+    <text id="text15" text-start="left" x="72pt" y="756pt">University of Texas at Austin</text>
+  </g> <!-- education-group -->
 
 </svg>
