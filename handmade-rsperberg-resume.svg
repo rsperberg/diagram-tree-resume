@@ -18,6 +18,7 @@
       #text02 { font-size: 15pt; }
       #text03, #text04, tspan { font-size: 12pt; }
       .italic { font-weight: 500i; font-style: italic; }
+      .skill { font-weight: 900; font-size: 10pt; letter-spacing:0.1pt; text-anchor:middle; }
     </style>
   </defs>
   <title
@@ -131,6 +132,8 @@
       <circle cx="408" cy="934" r="18pt" stroke-width="3pt" stroke="#90b2ca" fill-opacity="0.0" />
     </g> <!-- circle5-skills -->
 
+
+    <!-- +++++++++++++++++++++++++ ++++++++++++++++++++++++++++ ++++++++++ -->
     <g id="skills-icons">
         <g transform="translate(472,984) scale(0.109)">
           <title>HTML5 Logo</title>
@@ -184,10 +187,10 @@
     </g><!-- skills-icons -->
   </g> <!-- diagram-tree -->
 
-<line x1="432" y1="984" x2="770" y2="984" stroke-width="1px" stroke="red" stroke-linecap="butt" />
-<line x1="432" y1="1029" x2="770" y2="1029" stroke-width="1px" stroke="red" stroke-linecap="butt" />
+<!-- line x1="432" y1="984" x2="770" y2="984" stroke-width="1px" stroke="red" stroke-linecap="butt" />
+<line x1="432" y1="968" x2="770" y2="968" stroke-width="1px" stroke="red" stroke-linecap="butt" / -->
 
-  <g id="contact-info-group">
+  <g id="contact-info-text">
     <text id="text10" text-start="left" x="418pt" y="166pt" style="text-anchor:left; font-weight:500;">
         <tspan>48 Walnut Street</tspan>
         <tspan x="418pt" y="180pt">Montclair, NJ 07043</tspan>
@@ -195,14 +198,21 @@
         <tspan x="418pt" y="208pt">rsperberg@gmail.com</tspan>
         <tspan x="418pt" y="222pt">super-script.us</tspan>
     </text>
-  </g> <!-- contact-info-group -->
+  </g> <!-- contact-info-text -->
 
-  <g id="education-group">
+  <g id="education-text">
     <text id="text11" text-start="left" x="72pt" y="650pt" style="text-anchor:left; font-weight:500;">Bachelor of Journalism, <tspan class="italic">cum laude</tspan></text>
     <text id="text12" text-start="left"  x="72pt" y="664pt">University of Texas at Austin</text>
     <text id="text13" text-start="left" x="72pt" y="680pt">Bachelor of Science, <tspan class="italic">magna cum laude</tspan></text>
     <text id="text14" text-start="left" x="72pt" y="694pt">Economics</text>
     <text id="text15" text-start="left" x="72pt" y="708pt">University of Texas at Austin</text>
-  </g> <!-- education-group -->
+  </g> <!-- education-text -->
 
+    <g id="skills-text">
+      <text id="text16" text-start="middle" x="491" y="981" class="skill">HTML5</text>
+      <text id="text17" text-start="middle" x="544" y="981" class="skill">CSS</text>
+      <text id="text18" text-start="middle" x="597" y="981" class="skill">JavaScript</text>
+      <text id="text19" text-start="middle" x="650" y="981" class="skill">ES6</text>
+      <text id="text20" text-start="middle" x="703" y="981" class="skill">GitHub</text>
+    </g> <!-- skills-text -->
 </svg>
