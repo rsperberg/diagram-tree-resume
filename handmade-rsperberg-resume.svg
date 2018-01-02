@@ -200,6 +200,10 @@
     </text>
   </g> <!-- contact-info-text -->
 
+  <g id="freelance-work-text">
+    <text id="text21" text-start="left" x="350pt" y="354pt" style="text-anchor:left;">Some of the publishers I have worked for as a</text>
+    <text id="text22" x="350pt" y="368pt">proofreader, copyeditor, writer or consultant</text>
+  </g>
   <g id="education-text">
     <text id="text11" text-start="left" x="72pt" y="650pt" style="text-anchor:left; font-weight:500;">Bachelor of Journalism, <tspan class="italic">cum laude</tspan></text>
     <text id="text12" text-start="left"  x="72pt" y="664pt">University of Texas at Austin</text>
