@@ -133,6 +133,7 @@
     </g> <!-- circle5-skills -->
 
 
+
     <!-- +++++++++++++++++++++++++ ++++++++++++++++++++++++++++ ++++++++++ -->
     <!-- +++++++++++++++++++++++++ ++++++++++++++++++++++++++++ ++++++++++ -->
     <g id="positions-logos">
@@ -167,6 +168,9 @@
 
     </g> <!--  positions-logos -->
 
+
+
+    <!-- +++++++++++++++++++++++++ ++++++++++++++++++++++++++++ ++++++++++ -->
     <!-- +++++++++++++++++++++++++ ++++++++++++++++++++++++++++ ++++++++++ -->
     <g id="freelance-work-logos">
 
@@ -299,7 +303,9 @@
     </g> <!--  freelance-work-logos -->
 
 
-    <!-- +++++++++++++++++++++++++ ++++++++++++++++++++++++++++ ++++++++++ -->
+
+<!-- +++++++++++++++++++++++++ ++++++++++++++++++++++++++++ ++++++++++ -->
+<!-- +++++++++++++++++++++++++ ++++++++++++++++++++++++++++ ++++++++++ -->
     <g id="skills-icons">
         <g transform="translate(472,984) scale(0.109)">
           <title>HTML5 Logo</title>
@@ -357,6 +363,8 @@
 <line x1="432" y1="968" x2="770" y2="968" stroke-width="1px" stroke="red" stroke-linecap="butt" / -->
 
 
+
+<!-- +++++++++++++++++++++++++ ++++++++++++++++++++++++++++ ++++++++++ -->
 <!-- +++++++++++++++++++++++++ ++++++++++++++++++++++++++++ ++++++++++ -->
   <g id="contact-info-text">
     <text id="text10" text-start="left" x="418pt" y="166pt" style="text-anchor:left;">
@@ -377,14 +385,28 @@
         <text id="text22" text-start="left" x="72pt" y="459" style="text-anchor:left; font-weight:400;">Ballantine Books, 6 years</text>
   </g>
   <g id="cbs-text">
+    <text id="text24" text-start="left" x="142pt" y="529" style="text-anchor:left; font-weight:400;"><tspan class="italic">Audio Retailer,</tspan> 2 years</text>
     <text id="text23" text-start="left" x="142pt" y="510" style="text-anchor:left;">Managing Editor</text>
-    <text id="text24" text-start="left" x="142pt" y="529" style="text-anchor:left; font-weight:400;"><tspan style="italic">Audio Retailer,</tspan> 2 years</text>
   </g>
   <g id="lexisnexis-text">
         <text id="text25" text-start="left" x="72pt" y="580" style="text-anchor:left;">Content Architect</text>
         <text id="text25" text-start="left" x="72pt" y="599" style="text-anchor:left;"><tspan style="font-weight:400;">5 years</tspan></text>
   </g>
+  <g id="wolterskluwer-text">
+        <text id="text26" text-start="left" x="172pt" y="650" style="text-anchor:left;">Semantic Technology Lead</text>
+        <text id="text27" text-start="left" x="172pt" y="669" style="text-anchor:left;"><tspan style="font-weight:400;">4 years</tspan></text>
+        <text id="text28" text-start="left" x="172pt" y="688" style="text-anchor:left;">Manager, XML Content</text>
+        <text id="text29" text-start="left" x="172pt" y="707" style="text-anchor:left;"><tspan style="font-weight:400;">4 years</tspan></text>
   </g>
+  <g id="texas-observer-text">
+        <text id="text29a" text-start="left" x="72pt" y="750" style="text-anchor:left;">Proofreader, Copyeditor</text>
+        <text id="text29b" text-start="left" x="72pt" y="769" style="text-anchor:left;"><tspan style="font-weight:400;">2 years</tspan></text>
+  </g>
+  <g id="empire-state-report-text">
+        <text id="text29c" text-start="left" x="172pt" y="820" style="text-anchor:left;">Managing Editor, </text>
+        <text id="text29d" text-start="left" x="172pt" y="839" style="text-anchor:left;">Copyeditor<tspan style="font-weight:400;">1 year</tspan></text>
+  </g>
+</g> <!-- positions-text -->
 
   <g id="freelance-work-text">
     <text id="text30" text-start="left" x="350pt" y="348pt" style="text-anchor:left;">Some of the publishers I have worked for as a</text>
