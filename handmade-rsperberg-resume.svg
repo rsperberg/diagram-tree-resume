@@ -69,25 +69,25 @@
 
 
     <g id="circle2-positions"><!-- grouped white bg, icon, circle, line, bar with white text -->
-      <circle cx="408" cy="284" r="18pt" stroke-width="0" stroke="#ffffff" fill="#ffffff" opacity="1.0" />
+      <circle cx="408" cy="260" r="18pt" stroke-width="0" stroke="#ffffff" fill="#ffffff" opacity="1.0" />
       <g>
            <title>Companies (office buildings) icon</title>
-           <g transform="translate(391,265) scale(0.032)">
+           <g transform="translate(391,241) scale(0.032)">
                <path d="m0 1.1e3 87.7-1.56 0.336-350 0.336-350h64v-97.3h293v-304h333v97.3h203l0.335 502 0.335 502 144 1.56c-0.444 47.1-0.444-19.9-0.444 47.1h-591l-535 1.22c0.297-70.3 0 0-0.34-48.3zm446-326v-325h-309v651h309zm-259 206v-24.7h208v49.3h-208zm0-139v-24.7h208v49.3h-208zm0-139v-24.7h208v49.3h-208zm0-135v-24.7h208v49.3h-208zm412 434v-97.3h216v195l59-0.347 59-0.347v-955h-439l-0.341 476c-0.188 262-0.0565 477 0.291 478 0.491 1.29 12.3 1.67 52.7 1.67h52zm-52-378v-24.7h333v49.3h-333zm0-161v-24.7h333v49.3h-333zm0-161v-24.7h333v49.3h-333zm219 725v-73.3h-117v147h117zm-329-651v-24h-236v48h236zm293-305v-24.7l-118 0.341-118 0.341-0.367 22.6c-0.202 12.4-0.0707 23.4 0.291 24.3 0.53 1.38 23.6 1.72 118 1.72h117z" fill="#000000" stroke-width="1.33"/>
           </g>
       </g> <!-- Work icon -->
-      <line x1="292" y1="284" x2="384" y2="284" stroke-width="3pt" stroke="#90b2ca" stroke-linecap="butt" />
-      <line x1="96" y1="284" x2="292" y2="284" stroke-width="36pt" stroke="#90b2ca" stroke-linecap="butt" />
-      <text id="text09" text-start="middle" x="198" y="290" style="fill: #ffffff; stroke: none; font-size: 21px; letter-spacing:0.3pt; text-anchor:middle; font-weight:700; ">Positions</text>
-      <circle cx="408" cy="284" r="18pt" stroke-width="3pt" stroke="#90b2ca" fill-opacity="0.0" />
+      <line x1="292" y1="260" x2="384" y2="260" stroke-width="3pt" stroke="#90b2ca" stroke-linecap="butt" />
+      <line x1="96" y1="260" x2="292" y2="260" stroke-width="36pt" stroke="#90b2ca" stroke-linecap="butt" />
+      <text id="text09" text-start="middle" x="198" y="266" style="fill: #ffffff; stroke: none; font-size: 21px; letter-spacing:0.3pt; text-anchor:middle; font-weight:700; ">Positions</text>
+      <circle cx="408" cy="260" r="18pt" stroke-width="3pt" stroke="#90b2ca" fill-opacity="0.0" />
     </g> <!-- circle2-positions -->
 
 
     <g id="circle3-freelance"><!-- grouped white bg, icon, circle, line, bar with white text -->
-      <circle cx="408" cy="414" r="18pt" stroke-width="0" stroke="#ffffff" fill="#ffffff" opacity="1.0" />
+      <circle cx="408" cy="370" r="18pt" stroke-width="0" stroke="#ffffff" fill="#ffffff" opacity="1.0" />
       <g>
            <title>freelance (remote location) icon</title>
-           <g transform="translate(391,355) scale(0.078)">
+           <g transform="translate(391,311) scale(0.078)">
                <path d="m421 881c1.82-1.24 4.25-3.52 5.4-5.07 2.05-2.77 2.09-3.69 2.09-50.6v-47.8l-2.73-3.58c-4.52-5.93-8.6-6.87-28.3-6.54l-17 0.282-0.26 56.5c-0.143 31.1-0.0444 57.1 0.219 57.8 0.359 0.937 5.08 1.25 18.9 1.25 17.4 0 18.6-0.118 21.7-2.25zm-292-36-0.255-106h-19.5-19.5l-0.293 85c-0.207 60 0.0388 86.8 0.835 91 3.54 18.8 20.4 36.2 35.2 36.4l3.75 0.0521-0.255-106zm-46.9 143c-6.98-2.87-10.4-5.25-15.8-11.2-5.36-5.81-9.7-15.1-11.1-23.5-1.24-7.76-1.45-249-0.225-251 0.633-0.997 33.8-1.2 163-1l162 0.253 0.5 21.5 0.5 21.5 20.5 0.559c18.4 0.501 21.1 0.804 26.5 2.91 8.28 3.24 18.2 13.2 21.6 21.5 2.39 5.98 2.4 6.15 2.71 51.7 0.199 29-0.0695 47.8-0.734 51.4-2.38 12.9-10.2 23.4-21.6 29-5.91 2.9-6.19 2.93-25.5 3.2-10.7 0.148-20.5 0.485-21.7 0.75-2.15 0.476-2.18 0.757-2.53 25.7-0.325 23.2-0.533 25.7-2.54 30.7-5.15 12.8-14.4 22.2-25.6 26.1-5.44 1.91-8.93 1.96-135 1.94l-129-0.0237-5.61-2.31z" fill="#000000"/>
                <g fill="#ff6600">
                   <path d="m213 670c-5.7-2.34-7.45-3.79-10.1-8.37-3.18-5.42-3.68-14-1.12-18.9 4.94-9.43 16.2-13.8 25.5-9.95 19 7.96 14.7 36.4-5.82 38-3.07 0.243-6.75-0.107-8.45-0.802z"/>
@@ -96,10 +96,10 @@
                </g>
           </g>
       </g> <!-- freelance work icon -->
-      <line x1="432" y1="414" x2="528" y2="414" stroke-width="3pt" stroke="#90b2ca" stroke-linecap="butt" />
-      <line x1="528" y1="414" x2="720" y2="414" stroke-width="36pt" stroke="#90b2ca" stroke-linecap="butt" />
-      <text id="text09" text-start="middle" x="624" y="420" style="fill: #ffffff; stroke: none; font-size: 21px; letter-spacing:0.3pt; text-anchor:middle; font-weight:700; ">Freelance Work</text>
-      <circle cx="408" cy="414" r="18pt" stroke-width="3pt" stroke="#90b2ca" fill-opacity="0.0" />
+      <line x1="432" y1="370" x2="528" y2="370" stroke-width="3pt" stroke="#90b2ca" stroke-linecap="butt" />
+      <line x1="528" y1="370" x2="720" y2="370" stroke-width="36pt" stroke="#90b2ca" stroke-linecap="butt" />
+      <text id="text09" text-start="middle" x="624" y="376" style="fill: #ffffff; stroke: none; font-size: 21px; letter-spacing:0.3pt; text-anchor:middle; font-weight:700; ">Freelance Work</text>
+      <circle cx="408" cy="370" r="18pt" stroke-width="3pt" stroke="#90b2ca" fill-opacity="0.0" />
     </g> <!-- circle3-freelance -->
 
 
